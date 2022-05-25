@@ -54,7 +54,7 @@ pyCalverter==1.6.1
 pycparser==2.20
 pydub==0.24.1
 PyHamcrest==2.0.2
-PyJWT==1.7.1
+PyJWT==2.4.0
 pyluach==1.1.1
 pyparsing==2.4.7
 PySocks==1.7.1
